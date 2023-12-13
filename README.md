@@ -18,3 +18,6 @@ To collect and analyze the stock datasets, run the Python script 'stock_analysis
 
 Contributing:
 Contributions to the project are welcome. If you would like to contribute, please follow the guidelines for reporting issues or submitting pull request
+
+Contact Information:
+For inquiries or collaboration opportunities related to the project, please contact vigneshram10102004@gmail.com.
