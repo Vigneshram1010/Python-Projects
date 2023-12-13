@@ -13,7 +13,6 @@ The project includes various visualizations and analyses, such as pair plots, co
 Usage:
 To run the project, ensure that you have Python installed. Install the required libraries using the following command:
 
-Copy code
 pip install pandas numpy matplotlib seaborn
 To collect and analyze the stock datasets, run the Python script 'stock_analysis.py' in your preferred IDE or terminal.
 
