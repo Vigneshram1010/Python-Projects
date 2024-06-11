@@ -4,7 +4,7 @@ Basic Python and Data Vizualization Projects-Stock Analysis
 
 This repository contains a stock analysis project focusing on time series analysis of stock prices for various companies. The project involves the use of Python and relevant libraries for data collection, visualization, and analysis.
 
-Data Collection:
+
 The project involves the collection of individual stock datasets for multiple companies. The datasets are stored in separate CSV files and are located in the specified directory. It is important to note that the files must be unzipped before reading to avoid null output.
 
 Visualizations and Analysis:
